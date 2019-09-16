@@ -1,6 +1,8 @@
 # Computer-vision-application
 The program in this repository get a video and crop it 
 
+This program was written in C++, OpenCv library and It was made using the IDE QtCreator. 
+
 To use this program the user must follow this step below:
 
 1. The user must type the input video path. ex.: /home/usr/video.mp4
