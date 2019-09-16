@@ -11,3 +11,4 @@ To use this program the user must follow this step below:
 4. the program crops the video based on the value of x,y and width and height.
 5. If the user want to crop more parts of the same video he will have to pess 1 to type new value to x,y,width and height or 0 to finish the program.
 
+The video will be at the ouput path typed by the user with the name outcpp0.avi. If the user type more value to crop the output will be outcpp0.avi, outcpp1.avi, outcpp2.avi...
